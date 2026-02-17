@@ -26,6 +26,6 @@
   "dependencies": {
     "@actions/core": "^1.1.1",
     "@actions/io": "^1.0.1",
-    "@appthreat/cdxgen": "^1.2.1"
+    "@appthreat/cdxgen": "^7.0.5"
   }
 }
